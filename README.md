@@ -81,27 +81,6 @@ The model is trained on the **SMS Spam Collection Dataset**, a publicly availabl
 
 ---
 
-## Example Code Snippet 🧩
-
-```python
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
-
-# Sample messages
-messages = ["Free entry in 2 a weekly competition!", "Hey, are we meeting tonight?"]
-
-# Load pre-trained model and vectorizer
-vectorizer = CountVectorizer()
-X = vectorizer.fit_transform(messages)
-model = MultinomialNB()
-
-# Predict
-predictions = model.predict(X)
-print(predictions)  # Output: ['spam', 'ham']
-```
-
----
-
 ## Contribution Guidelines 🤝
 
 We welcome contributions to improve the SMS Spam Detector! Here's how you can contribute:
