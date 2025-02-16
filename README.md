@@ -34,7 +34,7 @@ To set up the SMS Spam Detector on your local machine:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd sms-spam-detector
+   cd Email-SMS-Spam-Detector
    ```
 3. Install required dependencies:
    ```bash
