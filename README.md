@@ -46,9 +46,9 @@ To set up the SMS Spam Detector on your local machine:
    ```
 4. Run the application:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
-   The app will be accessible at `http://localhost:5000` if it's Flask-based or on a Streamlit interface.
+   The app will be accessible at `http://localhost:5000` on a Streamlit interface.
 
 ---
 
