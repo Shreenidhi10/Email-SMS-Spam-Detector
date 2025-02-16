@@ -1,7 +1,3 @@
-Here's a draft README file for your **SMS Spam Detector** project:
-
----
-
 # SMS Spam Detector 📱🛡️
 
 **SMS Spam Detector** is a machine learning-based application designed to classify SMS messages as either *spam* or *ham* (not spam). This tool helps users identify and filter out unwanted spam messages, ensuring a clutter-free inbox and enhanced productivity.
@@ -34,7 +30,7 @@ To set up the SMS Spam Detector on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sms-spam-detector.git
+   git clone https://github.com/your-username/Email-SMS-Spam-Detector.git
    ```
 2. Navigate to the project directory:
    ```bash
